@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @HochinChan
+- 👀 I’m interested in JavaScript、Vue、Node.js、Webpack…
+- 🌱 I’m currently learning Vue SSR
+- 📫 How to reach me Wechat：Againdie
